@@ -1,5 +1,4 @@
-Flask
-joblib
-os
-pandas
-sklearn
+Flask==2.3.2
+joblib==1.2.0
+pandas==1.4.4
+scikit-learn==1.2.2
